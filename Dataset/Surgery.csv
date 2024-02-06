@@ -1,0 +1,10 @@
+SurgeryID,AppointmentID,SurgeryName,Description,Cost
+3109,1,Braces,Reconstruction,2500
+7862,2,Cleaning,Hygiene,1000
+1036,3,Dental Crown,Reconstruction,10000
+1968,4,Dental Implant,Reconstruction,75000
+6574,5,Extraction,Medical Procedure,1000
+2670,6,Filling,Medical Procedure,1000
+2385,7,Root Canal,Medical Procedure,10000
+1028,8,Teeth Whitening,Hygiene,1000
+5611,9,Tooth Extraction,Medical Procedure,500

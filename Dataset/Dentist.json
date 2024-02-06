@@ -1,0 +1,58 @@
+[
+  {
+    "DentistID": "01",
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Email": "johndoe@example.com",
+    "Phone": "1234567890"
+  },
+  {
+    "DentistID": "02",
+    "FirstName": "Jane",
+    "LastName": "Smith",
+    "Email": "janesmith@example.com",
+    "Phone": "9876543210"
+  },
+  {
+    "DentistID": "03",
+    "FirstName": "Michael",
+    "LastName": "Johnson",
+    "Email": "michaeljohnson@example.com",
+    "Phone": "4567890123"
+  },
+  {
+    "DentistID": "04",
+    "FirstName": "Emily",
+    "LastName": "Brown",
+    "Email": "emilybrown@example.com",
+    "Phone": "8901234567"
+  },
+  {
+    "DentistID": "05",
+    "FirstName": "David",
+    "LastName": "Taylor",
+    "Email": "davidtaylor@example.com",
+    "Phone": "2345678901"
+  },
+  {
+    "DentistID": "06",
+    "FirstName": "Emma",
+    "LastName": "Anderson",
+    "Email": "emmaanderson@example.com",
+    "Phone": "6789012345"
+  },
+  {
+    "DentistID": "07",
+    "FirstName": "Christopher",
+    "LastName": "Lee",
+    "Email": "christopherlee@example.com",
+    "Phone": "0123456789"
+  },
+  {
+    "DentistID": "08",
+    "FirstName": "Olivia",
+    "LastName": "Garcia",
+    "Email": "oliviagarcia@example.com",
+    "Phone": "3456789012"
+  }
+]
